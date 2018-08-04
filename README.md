@@ -2,7 +2,6 @@
 
 안녕하세요. DLC (Deep Learning College) 강좌를 위한 공간 입니다.
 
-[TOC]
 
 ## 3개월 기초교육 강좌 스케쥴 
 
